@@ -1,0 +1,1 @@
+Pictures saved using webcam for training will be stored in this folder

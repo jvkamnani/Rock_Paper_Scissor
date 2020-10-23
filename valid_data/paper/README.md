@@ -1,0 +1,1 @@
+Paper hand images for validation dataset
