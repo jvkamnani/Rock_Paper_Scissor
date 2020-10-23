@@ -1,7 +1,7 @@
 # Rock Paper Scissors Game via Webcam(Using resnet50 architecture)
 
 ## Overview
-The following code is a rock paper scissors game that can be played with your webcam. The object detection is does by the resent50 model(parts of the weights are frozen) combined with a fully connected layer.
+The following code is a rock paper scissors game that can be played with your webcam. The object detection is done by the resent50 model(parts of the weights are frozen) combined with a fully connected layer.
 
 ## How to use the code
 
@@ -17,9 +17,9 @@ python play.py
 ![](https://github.com/jvkamnani/Rock_Paper_Scissor/blob/main/demo/RPS_demo.gif)
 
 ## Datasets
-[Train Data](https://drive.google.com/drive/folders/17JB4yHeC2_Vw37QUarwfMlXcVte4w143?usp=sharing)
+    [Train Data](https://drive.google.com/drive/folders/17JB4yHeC2_Vw37QUarwfMlXcVte4w143?usp=sharing)
 
-[Validation Data](https://drive.google.com/drive/folders/1l_6quvVydbhYL7sr8LdWz27BwHOhsdry?usp=sharing)
+    [Validation Data](https://drive.google.com/drive/folders/1l_6quvVydbhYL7sr8LdWz27BwHOhsdry?usp=sharing)
 
 ## Depenendencies
 ```
