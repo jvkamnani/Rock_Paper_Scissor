@@ -17,9 +17,9 @@ python play.py
 ![](https://github.com/jvkamnani/Rock_Paper_Scissor/blob/main/demo/RPS_demo.gif)
 
 ## Datasets
-    [Train Data](https://drive.google.com/drive/folders/17JB4yHeC2_Vw37QUarwfMlXcVte4w143?usp=sharing)
+   [Train Data](https://drive.google.com/drive/folders/17JB4yHeC2_Vw37QUarwfMlXcVte4w143?usp=sharing)
 
-    [Validation Data](https://drive.google.com/drive/folders/1l_6quvVydbhYL7sr8LdWz27BwHOhsdry?usp=sharing)
+   [Validation Data](https://drive.google.com/drive/folders/1l_6quvVydbhYL7sr8LdWz27BwHOhsdry?usp=sharing)
 
 ## Depenendencies
 ```
