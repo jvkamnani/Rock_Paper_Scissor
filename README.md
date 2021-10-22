@@ -43,7 +43,7 @@ python get_data_from_webcam.py
 ```
 
 ## Move and Split Data
-To move the data from the webcam folder run move.py. It put's 9-% of the data into the training folder and 10% into the validation folder.
+To move the data from the webcam folder run move.py. It put's 90% of the data into the training folder and 10% into the validation folder.
 
 ```
 python move.py
